@@ -1,3 +1,41 @@
 [
-
+	{
+		"title":"KrendelPlay",
+		"latest":"22.06.21.17",
+		"versions":[
+			{
+				"version-name":"22.06.21.17 | x32",
+				"version-title":"KrendelPlay",
+				"version-revision":"developer preview",
+				"data":"https://firebasestorage.googleapis.com/v0/b/krendel-beta-cdn.appspot.com/o/krendelplay-22062122%2F22062122-x32.zip?alt=media&token=6e328e19-5754-40ca-8d86-2ac6f5001fa6",
+				"new":{
+					"title":"KrendelPlay",
+					"version":"22.06.21.17",
+					"content":"*Создание графической оболочки<br>*Наработка интерфейса и некоторых элементов<br>*Добавление кнопок: Пользователь и Настройки<br>*Добавленно полноэкранное новедение на элементы"
+				}
+			},
+			{
+				"version-name":"22.06.21.17 | x64",
+				"version-title":"KrendelPlay",
+				"version-revision":"developer preview",
+				"data":"https://firebasestorage.googleapis.com/v0/b/krendel-beta-cdn.appspot.com/o/krendelplay-22062122%2F22062122-x64.zip?alt=media&token=b5f61343-dc77-438c-8078-7f3f74335011",
+				"new":{
+					"title":"KrendelPlay",
+					"version":"22.06.21.17",
+					"content":"*Создание графической оболочки<br>*Наработка интерфейса и некоторых элементов<br>*Добавление кнопок: Пользователь и Настройки<br>*Добавленно полноэкранное новедение на элементы"
+				}
+			},
+			{
+				"version-name":"22.06.21.17 | arm64",
+				"version-title":"KrendelPlay",
+				"version-revision":"developer preview",
+				"data":"https://firebasestorage.googleapis.com/v0/b/krendel-beta-cdn.appspot.com/o/krendelplay-22062122%2F22062122-arm64.zip?alt=media&token=70716455-0fe3-4cbe-9c26-209d646ffc79",
+				"new":{
+					"title":"KrendelPlay",
+					"version":"22.06.21.17",
+					"content":"*Создание графической оболочки<br>*Наработка интерфейса и некоторых элементов<br>*Добавление кнопок: Пользователь и Настройки<br>*Добавленно полноэкранное новедение на элементы"
+				}
+			}
+		]
+	}
 ]
